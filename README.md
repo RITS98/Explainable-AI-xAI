@@ -1,5 +1,7 @@
 # Explainable-AI-xAI
 
+Very Important Link (Must Read) - [Interpretable ML](https://christophm.github.io/interpretable-ml-book/)
+
 - Explainable AI (xAI) enhances transparency and trust by making complex models more interpretable, crucial for accountability and bias detection in regulated industries.
 
 - It aids in debugging, legal compliance, and balancing accuracy with interpretability, proving essential in fields like healthcare, finance, and autonomous vehicles. 
