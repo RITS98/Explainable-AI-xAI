@@ -43,13 +43,13 @@
 
 ## Some notable xAI Methods
 
-- LIME (Local interpretable model-agnostic explanations): Explains individual predictions by locally learning an interpretable model, applicable in healthcare diagnostics and finance.
-- SHAP (Shapley Additive Explanations): Assigns feature importance values for specific predictions, crucial in credit scoring and fraud detection.
-- Partial Dependence Plots (PDP): Shows how features impact predictions, useful in pricing models and retail analytics.
-- Tree Interpreter: Analyzes decision trees to understand feature contributions, valuable in insurance risk assessment.
-- CNN Visualizations: Visualizes CNNs to interpret image data, essential for autonomous driving and medical imaging.
-- Permutation Feature Importance: Measures feature importance by shuffling values, beneficial in customer churn prediction.
-- Counterfactual Explanations: Generates alternative instances to understand decision boundaries, significant in loan approvals and criminal justice.- 
+- **LIME (Local interpretable model-agnostic explanations):** Explains individual predictions by locally learning an interpretable model, applicable in healthcare diagnostics and finance.
+- **SHAP (Shapley Additive Explanations):** Assigns feature importance values for specific predictions, crucial in credit scoring and fraud detection.
+- **Partial Dependence Plots (PDP):** Shows how features impact predictions, useful in pricing models and retail analytics.
+- **Tree Interpreter:** Analyzes decision trees to understand feature contributions, valuable in insurance risk assessment.
+- **CNN Visualizations:** Visualizes CNNs to interpret image data, essential for autonomous driving and medical imaging.
+- **Permutation Feature Importance:** Measures feature importance by shuffling values, beneficial in customer churn prediction.
+- **Counterfactual Explanations:** Generates alternative instances to understand decision boundaries, significant in loan approvals and criminal justice.
 
 
 ## Qualitative Comparision
