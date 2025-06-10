@@ -39,3 +39,15 @@
 
 4.  **Data Type**<br>
     <img width="642" alt="Image" src="https://github.com/user-attachments/assets/63319e6b-40d6-4799-bd47-104beae7811f" />
+
+## Qualitative Comparision
+
+|   Technique   |   Model Agnostic  |   Data Type   |   Local/Global    |   Explanation Type    |
+|---------------|-------------------|---------------|-------------------|-----------------------|
+|   LIME        |       Yes         |   Text/Tabular/Image  |   Local   |   Surrogate Model     |
+|   SHAP        |       Yes         |   Text/Tabular/Image  |   Local/Global    |   Feature Importance  |
+|   Partial Dependence Plots (PDP)  |   Yes     |   Tabular |   Global  |   Visual  |
+|   Tree Interpreter    |   No      |   Tabular |   Local   |   Feature Importance  |
+|   CNN Visualizer      |   No      |   Image   |   Local   |   Visual  |
+|   Permutaion Feature Importance   |   Yes     |   Tabular/Image   |   Global  |   Feature Importance  |
+|   Counterfactual Explanation  |   Yes |   Text/Tabular/Image  |   Local   |   Data Types      |
